@@ -1,0 +1,10 @@
+# Resume Builder AI
+
+> Tailor your resume to any job in seconds with AI-powered ATS optimization. Upload your resume and a job description to get a recruiter-ready, ATS-friendly resume with a match score and keyword gaps — facts preserved, never invented.
+
+Resume Builder AI rewrites and reorders your existing resume content to match a target role, then scores it against the job description so you can close keyword gaps before applying.
+
+## Pages
+
+- [Home](/): Overview of how AI resume tailoring and ATS scoring work.
+- [Sign in](/auth): Create an account or sign in to start tailoring resumes.
